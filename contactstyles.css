@@ -39,7 +39,7 @@ a{
 
 li{
   display: inline;
-  padding: 50px 50px 50px 50px;
+  padding: 30;
 }
 
 .Contact{
@@ -57,7 +57,7 @@ li{
   text-align: center;
   font-size: 20px;
   width: 300px;
-  height: 100px;
+  height: 350px;
   padding: 20px 0px 180px 0px;
   border-radius: 10px;
   margin: auto;
