@@ -41,3 +41,24 @@ li{
   display: inline;
   padding: 50px 50px 50px 50px;
 }
+
+.Contact{
+  font-family: "Amatic SC", "arial";
+  text-align: center;
+  font-size: 25px;
+  background-color: #663300;
+  margin: 0 40%;
+  color: #eed5b7;
+}
+
+.container{
+  width: 300px;
+  height: 100px;
+  padding: 50px 50px 100px 50px;
+  border-radius: 10px;
+  margin: auto;
+  border: #663300;
+  background-color: #eed5b7;
+  color: #663300;
+  text-align: center;
+}
