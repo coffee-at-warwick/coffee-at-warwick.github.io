@@ -53,12 +53,12 @@ li{
 }
 
 .container{
-  font-family: "Amatic SC", "arial";
+  font-family: "Kreon", serif;
   text-align: center;
   font-size: 20px;
   width: 300px;
   height: 100px;
-  padding: 20px 0px 150px 0px;
+  padding: 20px 0px 180px 0px;
   border-radius: 10px;
   margin: auto;
   border: #663300;
