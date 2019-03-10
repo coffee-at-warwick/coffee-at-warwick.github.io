@@ -1,15 +1,43 @@
-h1 {
-  font-family: Shrikhand, cursive;
-  color: black;
+h1{
+  font-family: "Shrikhand", cursive;
+  color: #eed5b7;
   text-align: center;
   font-size: 80px;
-
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+    padding-bottom: 150px;
+    padding-top: 70px;
 }
 
-body {
-  background: url("BackgroundImage.jpg");
+body{
+  background: url("coffeebeans.jpg");
   background-color: #ccd9ff;
   background-size: cover;
   background-repeat: no-repeat;
 
+}
+
+ul{
+text-align: center;
+background: #eed5b7;
+  font-family: "Amatic SC", "arial";
+  font-size: 40px;
+  font-color: #663300;
+}
+
+.topspace{
+  padding-top: 70px;
+}
+
+a{
+  color:  #663300;
+  text-decoration: none;
+}
+
+li{
+  display: inline;
+  padding: 50px 50px 50px 50px;
 }
