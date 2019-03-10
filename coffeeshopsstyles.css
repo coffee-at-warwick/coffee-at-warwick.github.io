@@ -14,9 +14,9 @@ h1{
 
 h2{
   font-family: "Kreon", serif;
+  text-align: center;
   color: #493017;
   font-size: 50px;
-  margin-left: 30px;
   text-decoration: underline #493017;
 
 }
@@ -52,14 +52,15 @@ li{
 
 p{
   font-family: "Kreon", serif;
-  text-align: left;
+  text-align: center;
   color: #493017;
   font-family: caveat;
   font-size: 20px;
   background: rgba(238, 213, 183, 0.8);
   width: 800px;
   height:50px;
-  margin-left: 30px;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 30px;
   border-radius: 20px;
 }
