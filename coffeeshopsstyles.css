@@ -8,8 +8,17 @@ h1{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
-    padding-bottom: 150px;
-    padding-top: 70px;
+    padding-bottom: 90px;
+    padding-top: 20px;
+}
+
+h2{
+  font-family: "Kreon", serif;
+  color: #493017;
+  font-size: 50px;
+  margin-left: 30px;
+  text-decoration: underline #493017;
+
 }
 
 body{
@@ -17,7 +26,6 @@ body{
   background-color: #ccd9ff;
   background-size: cover;
   background-repeat: no-repeat;
-
 }
 
 ul{
@@ -25,7 +33,7 @@ text-align: center;
 background: #eed5b7;
   font-family: "Kreon", serif;
   font-size: 40px;
-  font-color: #663300;
+  color: #493017;
 }
 
 .topspace{
@@ -33,7 +41,7 @@ background: #eed5b7;
 }
 
 a{
-  color:  #663300;
+  color:  #493017;
   text-decoration: none;
 }
 
@@ -42,27 +50,22 @@ li{
   padding: 50px 50px 50px 50px;
 }
 
-.Contact{
+p{
   font-family: "Kreon", serif;
-  text-align: center;
-  font-size: 25px;
-  background-color: #663300;
-  margin: 0 40%;
-  color: #eed5b7;
-  border-radius: 10px;
+  text-align: left;
+  color: #493017;
+  font-family: caveat;
+  font-size: 20px;
+  background: rgba(238, 213, 183, 0.8);
+  width: 800px;
+  height:50px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  border-radius: 20px;
 }
 
-.container{
-  font-family: "Amatic SC", "arial";
-  text-align: center;
-  font-size: 20px;
-  width: 300px;
-  height: 100px;
-  padding: 20px 0px 150px 0px;
-  border-radius: 10px;
-  margin: auto;
-  border: #663300;
-  background-color: rgba(238,	213,183, 0.8);
-  color: #663300;
-  text-align: center;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

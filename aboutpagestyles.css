@@ -13,8 +13,11 @@ h1{
 }
 
 h2{
+  font-family: "Kreon", serif;
+  color: #493017;
   font-size: 50px;
   margin-left: 30px;
+  text-decoration: underline #493017;
 
 }
 
@@ -28,9 +31,9 @@ body{
 ul{
 text-align: center;
 background: #eed5b7;
-  font-family: "Amatic SC", "arial";
+  font-family: "Kreon", serif;
   font-size: 40px;
-  font-color: #663300;
+  color: #493017;
 }
 
 .topspace{
@@ -38,7 +41,7 @@ background: #eed5b7;
 }
 
 a{
-  color:  #663300;
+  color:  #493017;
   text-decoration: none;
 }
 
@@ -48,12 +51,12 @@ li{
 }
 
 p{
+  font-family: "Kreon", serif;
   text-align: left;
-  color: #663300;
+  color: #493017;
   font-family: caveat;
   font-size: 20px;
-  font-weight: bold;
-  background: #eed5b7; opacity: 0.8;
+  background: rgba(238, 213, 183, 0.8);
   width: 800px;
   height:50px;
   margin-left: 30px;
