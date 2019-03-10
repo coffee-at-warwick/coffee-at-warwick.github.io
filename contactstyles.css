@@ -23,7 +23,7 @@ body{
 ul{
 text-align: center;
 background: #eed5b7;
-  font-family: "Amatic SC", "arial";
+  font-family: "Kreon", serif;
   font-size: 40px;
   font-color: #663300;
 }
@@ -43,7 +43,7 @@ li{
 }
 
 .Contact{
-  font-family: "Amatic SC", "arial";
+  font-family: "Kreon", serif;
   text-align: center;
   font-size: 25px;
   background-color: #663300;
