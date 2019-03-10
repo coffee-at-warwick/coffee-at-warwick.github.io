@@ -8,7 +8,7 @@ h1{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
-    padding-bottom: 90px;
+    padding-bottom: 150px;
     padding-top: 20px;
 }
 
@@ -48,7 +48,7 @@ a{
 
 li{
   display: inline;
-  padding: 50px 50px 50px 50px;
+  padding: 30px;
 }
 
 p{
