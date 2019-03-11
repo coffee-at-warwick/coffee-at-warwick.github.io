@@ -1,3 +1,3 @@
-$(`#title`).on(`click`, function (event) {
+$(`#title`).on(`click`, function(event) {
   $(`#title`).toggle();
 });
