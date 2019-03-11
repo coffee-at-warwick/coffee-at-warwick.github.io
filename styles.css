@@ -37,6 +37,10 @@ a{
   text-decoration: none;
 }
 
+a:hover {
+  color: white;
+}
+
 li{
   display: inline;
   padding: 30px;
