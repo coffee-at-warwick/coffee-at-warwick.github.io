@@ -50,6 +50,10 @@ li{
   padding: 30px;
 }
 
+a:hover {
+  color: white;
+}
+
 p{
   font-family: "Kreon", serif;
   text-align: left;

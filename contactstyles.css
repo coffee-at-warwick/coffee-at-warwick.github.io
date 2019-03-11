@@ -66,3 +66,7 @@ li{
   color: #663300;
   text-align: center;
 }
+
+a:hover {
+  color: white;
+}
